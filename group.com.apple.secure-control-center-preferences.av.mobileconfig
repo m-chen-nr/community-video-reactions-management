@@ -22,14 +22,6 @@
 								<false/>
 								<key>videoeffects/com-apple-FaceTime/reactions-enabled</key>
 								<false/>
-								<key>videoeffects/com-apple-iWork-Keynote/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-apple-iWork-Keynote/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-apple-QuickTimePlayerX/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-apple-QuickTimePlayerX/gestures-enabled</key>
-								<false/>
 								<key>videoeffects/com-apple-Safari/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-Safari/reactions-enabled</key>
