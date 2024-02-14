@@ -38,10 +38,6 @@
 								<false/>
 								<key>videoeffects/com-apple-ScreenSharing/gestures-enabled</key>
 								<false/>
-								<key>videoeffects/com-apple-cmio-ContinuityCaptureAgent/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-apple-cmio-ContinuityCaptureAgent/reactions-enabled</key>
-								<false/>
 								<key>videoeffects/com-apple-controlcenter/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-apple-controlcenter/reactions-enabled</key>
@@ -58,17 +54,9 @@
 								<false/>
 								<key>videoeffects/com-apple-systemuiserver/reactions-enabled</key>
 								<false/>
-								<key>videoeffects/com-hnc-Discord/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-hnc-Discord/gestures-enabled</key>
-								<false/>
 								<key>videoeffects/com-google-Chrome/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-google-Chrome/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-logitech-logitune/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-logitech-logitune/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/com-microsoft-teams/reactions-enabled</key>
 								<false/>
@@ -82,18 +70,6 @@
 								<false/>
 								<key>videoeffects/com-microsoft-teams2/gestures-enabled</key>
 								<false/>
-								<key>videoeffects/com-tinyspeck-slackmacgap/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-tinyspeck-slackmacgap/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/replayd/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/replayd/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-obsproject-obs-studio/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-obsproject-obs-studio/reactions-enabled</key>
-								<false/>
 								<key>videoeffects/us-zoom-xos/gestures-enabled</key>
 								<false/>
 								<key>videoeffects/us-zoom-xos/reactions-enabled</key>
@@ -102,34 +78,6 @@
 								<false/>
 								<key>videoeffects/us-zoom-ZoomPresence/reactions-enabled</key>
 								<false/>
-								<key>videoeffects/org-mozilla-firefox/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/org-mozilla-firefox/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-avaya-Avaya-Equinox/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-avaya-Avaya-Equinox/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-logi-cp-dev-mgr/gestures-enabled</key>
-								<false/>
-								<key>videoeffects/com-logi-cp-dev-mgr/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-skype-skype-Helper-(Renderer)/reactions-enabled</key>
-								<false/>
-								<key>videoeffects/com-skype-skype-Helper-(Renderer)/gestures-enabled</key>
-								<false/>
-  								<key>videoeffects/com-skype-skype/reactions-enabled</key>
-  								<false/>
-  								<key>videoeffects/com-skype-skype/gestures-enabled</key>
-  								<false/>
-								<key>videoeffects/com-microsoft-edgemac/reactions-enabled</key>
-  								<false/>
-  								<key>videoeffects/com-microsoft-edgemac/gestures-enabled</key>
-  								<false/>
-								<key>videoeffects/com-brave-Browser/reactions-enabled</key>
-  								<false/>
-  								<key>videoeffects/com-brave-Browser/gestures-enabled</key>
-  								<false/>
 							</dict>
 						</dict>
 					</array>
