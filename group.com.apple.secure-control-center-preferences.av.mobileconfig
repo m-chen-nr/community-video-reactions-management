@@ -136,7 +136,13 @@
   								<false/>
 								<key>videoeffects/com-apple-UniversalAccessControl/reactions-enabled</key>
   								<false/>
-								<key>videoeffects/com-cisco-webex-webexmta/reactions-enabled</key>
+								<key>videoeffects/Cisco-Systems-Spark/reactions-enabled</key>
+  								<false/>
+  								<key>videoeffects/Cisco-Systems-Spark/gestures-enabled</key>
+  								<false/>
+  								<key>videoeffects/com-cisco-webex-webexmta/reactions-enabled</key>
+  								<false/>
+  								<key>videoeffects/com-cisco-webex-webexmta/gestures-enabled</key>
   								<false/>
 								<key>videoeffects/SRStreamerDaemon/reactions-enabled</key>
   								<false/>
